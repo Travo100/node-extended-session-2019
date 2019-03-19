@@ -1,0 +1,25 @@
+{
+  "name": "extended-session-2019",
+  "version": "1.0.0",
+  "description": "A node extended session for UCSD extension",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travo100/node-extended-session-2019.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "education",
+    "ucsd"
+  ],
+  "author": "Travis Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Travo100/node-extended-session-2019/issues"
+  },
+  "homepage": "https://github.com/Travo100/node-extended-session-2019#readme"
+}
