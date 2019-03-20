@@ -22,7 +22,7 @@ function movieThis() {
     axios.get("http://www.omdbapi.com/?t=" + movieTitle + "&y=&plot=short&apikey="+keys.omdbKey.secret)
         .then(function (response) {
             console.log(response.data);
-        })
+        });
 }
 
 // with the command spotify-this-song <song-title> get data from the 
